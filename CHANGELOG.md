@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/nvim-colortils/colortils.nvim/compare/v1.1.0...v1.2.0) (2024-01-10)
+
+
+### Features
+
+* export `exec_command` to call directly from output ([7524cba](https://github.com/nvim-colortils/colortils.nvim/commit/7524cba95ee859e6c9379413045242238f13d5a7))
+
 ## [1.1.0](https://github.com/nvim-colortils/colortils.nvim/compare/v1.0.0...v1.1.0) (2023-04-22)
 
 ### Features
