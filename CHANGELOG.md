@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0](https://github.com/nvim-colortils/colortils.nvim/compare/v1.1.0...v1.2.0) (2024-04-19)
+
+
+### Features
+
+* Add default_color option to colortils setup ([91cda21](https://github.com/nvim-colortils/colortils.nvim/commit/91cda217b7f466a19f402ee86d6c80337a2908c6))
+* Add default_color setting to colortils ([d769f3f](https://github.com/nvim-colortils/colortils.nvim/commit/d769f3f6159370e86b0331b86889bd37c3723a10))
+* export `exec_command` to call directly from output ([7524cba](https://github.com/nvim-colortils/colortils.nvim/commit/7524cba95ee859e6c9379413045242238f13d5a7))
+* update set_register_choose_format in colortils setup ([0f90cc4](https://github.com/nvim-colortils/colortils.nvim/commit/0f90cc4cb24594c8b16b7eab6caeba22d9df585f))
+
 ## [1.1.0](https://github.com/nvim-colortils/colortils.nvim/compare/v1.0.0...v1.1.0) (2023-04-22)
 
 ### Features
